@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Persijap Jepara Targetkan 3 Kali Laga Uji Coba
-image: https://img.solopos.com/thumb/posts/2019/06/19/999602/latihan-tim-persijap-jep.jpg?w=600&h=400
+image: https://lh3.googleusercontent.com/4QyJFAwxYpd6Z94qfJOqYukpxnpqq6ePviajKTeLFmtrTfZkWI7ejDYal2v9tU5m7OgVTrRq8BiQb1lvFsmFWYQ68jat42Ll0zNEo74I9MK2Cwc8JQK6HQdHlVPIXaND0PySHnc-IfXkAjTDRXlfGl4anqrqnHcJs9DT4IPErjIdNTk8cOpC9zEmPaVzxWnsggwzk7s013247EtYTNH_t5MQC-51iLHXXBgY8Fer9Ot8wf42jBn2m-XyStLsD5ksF-L0PcR58oVLV6VQJfd9luZynlk9bc_kSmJ1zR6fUeEYMcw2oFd4YoiB5DCbuzekuCh7aihPotwWyJOP3DjMSS3d5-wEn8hpkPB6mG-R63sgUUrkA7NoyI64N7okqdIGtHdipnOFoVs2o5Bi_OJqYxE2w8wsaHhsfuciTDs5N_SH6eSxxX9pEInK5OJ4oIqtQ7m45bjhTBGWcrURv9mwBUr57UNcuWiN4k5yD5fzEneHE-a056J6ZgzE_Dar1WNaxFkOEnyaP11HPbT_7EQZmdxvWtNK2JLzdbOqa1UkS3zMoO_3qcr10AJh4Y37RWDNU7_Pg_RUslFHyGhgAt16uYMsWVIHbKf_cgfTjxnAH0N4Q0hBMVdp7ri99H8kBSL6FZ1vusTMBZSQgWHgrgupz4RPbuwVbJY=w1100-h300-no
 ---
 
 Semarangpos.com, JEPARA — Tim Persijap Jepara menargetkan hingga tiga kali laga uji coba untuk mengetahui kemajuan masing-masing pemain setelah menjalani program latihan serta pemantauan kemampuan pemain seleksi.
