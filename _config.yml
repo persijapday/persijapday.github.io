@@ -16,9 +16,7 @@
 title: Persijap Day
 email: persijapday@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A AOSP Custom ROM with the goal of making you feel like 家.
-  Including various features from other projects and some interesting
-  system apps.
+  Media
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: persijapday
